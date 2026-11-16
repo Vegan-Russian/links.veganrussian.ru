@@ -1,0 +1,78 @@
+# Ссылки для links.veganrussian.ru
+# Каждая секция — заголовок и список ссылок (title, description, url).
+# description можно не указывать.
+
+- section: Помочь нам
+  links:
+    - title: Ежемесячная подписка
+      description: От 10 рублей! Boosty
+      url: https://boosty.to/veganrussian
+    - title: Реклама у нас
+      url: https://veganrussian.ru/pr
+    - title: Волонтёрство
+      description: Как можно помочь Vegan Russian?
+      url: https://veganrussian.notion.site/Vegan-Russian-ab7358963a574728a90483d15297736e?pvs=4
+    - title: Финансовый отчёт
+      url: https://docs.google.com/spreadsheets/d/1quq36U7GROYxzURq0bUUk-9MmhQ42rnxynN2Nd03SYw/edit?usp=sharing
+
+- section: Контакты
+  links:
+    - title: Все наши контакты
+      url: https://veganrussian.notion.site/Vegan-Russian-88c5bf34c1f447508d90b21f8ffa2d63?pvs=4
+    - title: Мы в телеграм
+      url: https://t.me/veganrussiantg
+    - title: Заявка на разбан
+      url: https://forms.gle/z8TC9mUXy34Fp8zW9
+
+- section: Новые проекты
+  links:
+    - title: Веганская библиотека
+      description: Для всех!
+      url: https://veganrussian.ru/veganskaya-biblioteka/
+
+- section: Другие проекты
+  links:
+    - title: Vegan Russian
+      description: Продукты, косметика, гайды, статьи
+      url: https://veganrussian.ru/
+    - title: ебот
+      description: Проверяет по вегану ли ешки
+      url: https://t.me/veganeshkibot
+    - title: Vegan Map
+      description: Веганская карта, которой можно доверять
+      url: http://vegan-map.ru/
+
+- section: Для детей и родителей
+  links:
+    - title: Добрая раскраска для детей
+      url: https://coloring.veganrussian.ru/
+    - title: Приключение Злаки
+      description: Детская этичная онлайн игра. Бесплатно!
+      url: https://zlacky.ru/
+    - title: Веганское воспитание детей
+      description: Рассказы веганских родителей + чат для общения
+      url: https://t.me/veganchildren
+
+- section: Благотворительность
+  links:
+    - title: B12 — нуждающимся
+      description: Поддерживаем здоровье вегано_к
+      url: https://b12.veganrussian.ru/
+
+- section: Конкурсы и мероприятия
+  links:
+    - title: Vegan Halloween 🎃
+      description: Конкурс кулинарных рецептов
+      url: https://halloween.veganrussian.ru/
+
+- section: Закрыто
+  links:
+    - title: Vegan Russian Podcast
+      description: Вероятно, у подкаста была не самая интересная тема + не хватало пиара. Возможно, позже попробуем ещё раз
+      url: https://t.me/veganrussianpodcast
+    - title: Vegan iHerb
+      description: Обзоры на веганское с iHerb. Айхерб Рип
+      url: https://t.me/veganiherb
+    - title: Веганские лажи
+      description: Канал, в котором мы публиковали фейлы на веганстве. Закрыли из-за того, что тема исчерпалась
+      url: https://t.me/veganfuckups
