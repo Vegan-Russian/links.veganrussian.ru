@@ -49,7 +49,6 @@ def main():
     OUT.mkdir()
     (OUT / "index.html").write_text(page, encoding="utf-8")
     shutil.copytree(ROOT / "assets", OUT / "assets")
-    shutil.copy(ROOT / "CNAME", OUT / "CNAME")
     print(f"OK: {sum(len(b.get('links') or []) for b in data)} ссылок → {OUT / 'index.html'}")
 
 
